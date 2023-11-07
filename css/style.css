@@ -1,0 +1,45 @@
+.nav-list ul{
+    list-style: none;
+}
+.nav-list ul a{
+    color: black;
+}
+.nav-list ul :hover a{
+    color: blue;
+}
+.nav-left:hover .btn-primary  {
+    background-color: black ;
+}
+.section1{
+    top: 150px;
+}
+.visible1{
+    height: 200px;
+}
+
+.bg-color{
+    background-color: rgb(27, 80, 192);
+    height: 300px;
+}
+.after-blog{
+    background-color: rgb(27, 80, 192);
+    height: 250px;
+}
+.footer-all h5{
+    color: white;
+}
+.footer-all p {
+    color:rgba(255, 255, 255, 0.247) ;
+}
+.footer-all a{
+    text-decoration: none;
+color: rgba(255, 255, 255, 0.247);
+}
+.footer-all p:hover a{
+    color: white;
+}
+.copy-right{
+    height: 100px;
+    position: relative;
+}
+
